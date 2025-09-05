@@ -21,11 +21,12 @@ buy_button btn a{display:block;color:white;text-align:center;padding:14px 16px;t
 buy_button btn a:hover{background-color:#111111}
 .container{text-align: center;}
 .category{display: inline-block;}
-.black_dlg{background-color:black;}
+.black_dlg{background-color:black;color:white;}
 .button-container {display: flex;background-color:black;justify-content: center;align-items: center;}
 
 @media screen and (min-width:800px) {
 
 
 }
+
 
